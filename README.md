@@ -73,7 +73,7 @@ Objetivo: agarrar el cubo y la esfera de la mesa, dejarlos sobre la zona verde y
 
 ## Cómo abrir el proyecto
 
-1. Clonar el repositorio: `git clone https://github.com/EdwardPM05/XR-Interaction-Challenge-2026-09-29_20-31-46.git`
+1. Clonar el repositorio: `git clone https://github.com/EdwardPM05/XR-Interaction-Challenge.git`
 2. Abrir la carpeta con Unity Hub usando la versión 2022.3.62f3.
 3. Abrir la escena `Assets/Scenes/EC_XR_PittmanEdward.unity`.
 4. Presionar Play.
