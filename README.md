@@ -59,7 +59,7 @@ Objetivo: agarrar el cubo y la esfera de la mesa, dejarlos sobre la zona verde y
 
    ![Project](Screenshots/05_project.png)
 
-## Video demostrativo (máx. 1 minuto)
+## Video demostrativo
 
 [Ver video en YouTube](https://youtu.be/fLMTVzC6Rgk)
 
